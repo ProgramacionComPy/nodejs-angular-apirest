@@ -1,0 +1,14 @@
+{
+ "name": "nodejs-angular-apirest",
+ "version": "1.0.0",
+ "description": "MEAN stack",
+ "main": "server.js",
+ "dependencies": {
+ "body-parser": "~1.13.2",
+ "debug": "~2.2.0",
+ "morgan": "~1.6.1",
+ "express": "~4.13.1",
+ "method-override": "^2.1.2",
+ "mongoose": "~3.6.11"
+ }
+}
